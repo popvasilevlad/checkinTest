@@ -1,4 +1,6 @@
-# Simple React Project testing the experiencte working fit Google Firebase
+#React with Firebase 
+
+Simple React Project testing the experiencte working fit Google Firebase
 
 npm i
 
