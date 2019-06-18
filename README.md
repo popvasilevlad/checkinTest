@@ -1,6 +1,6 @@
 # React with Firebase 
 
-Simple React Project testing the experiencte working fit Google Firebase
+Simple React Project experiencing the working whith Google Firebase
 
 npm i
 
